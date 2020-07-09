@@ -65,7 +65,7 @@ class LoginForm extends Component {
               errors.password = "No password provided";
             }
 
-            if (values.password.length > 8 && values.password.length < 73) {
+            if (values.password.length > 7 && values.password.length < 73) {
               document.getElementById("rule1").style = "text-decoration: line-through";
             } else {
               errors.password = "8-72 characters";
