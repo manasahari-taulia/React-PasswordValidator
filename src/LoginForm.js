@@ -93,14 +93,14 @@ class LoginForm extends Component {
               document.getElementById("rule4").style = "text-decoration: none";
             }
 
-            if (values.password !== email) {
+            if (values.password.toLowerCase() !== email.toLowerCase()) {
               document.getElementById("rule5").style = "text-decoration: line-through";
             } else {
               errors.password = "Cannot be your email";
               document.getElementById("rule5").style = "text-decoration: none";
             }
 
-            if (!values.password.includes(userName)) {
+            if (!values.password.toLowerCase().includes(userName.toLowerCase())) {
               document.getElementById("rule6").style = "text-decoration: line-through";
             } else {
               errors.password = "Cannot include your name";
