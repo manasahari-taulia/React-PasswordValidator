@@ -1,3 +1,21 @@
+## Tests - Screenshots
+
+![Home Page](https://github.com/manasahari-taulia/React-PasswordValidator/tree/master/public/test-screenshots/homePage.png)
+
+![Test Image 1](https://github.com/manasahari-taulia/React-PasswordValidator/tree/master/public/test-screenshots/test1.png)
+
+![Test Image 2](https://github.com/manasahari-taulia/React-PasswordValidator/tree/master/public/test-screenshots/test2.png)
+
+![Test Image 3](https://github.com/manasahari-taulia/React-PasswordValidator/tree/master/public/test-screenshots/test3.png)
+
+![Test Image 4](https://github.com/manasahari-taulia/React-PasswordValidator/tree/master/public/test-screenshots/test4.png)
+
+![Test Image 5](https://github.com/manasahari-taulia/React-PasswordValidator/tree/master/public/test-screenshots/test5.png)
+
+![Test Image 6](https://github.com/manasahari-taulia/React-PasswordValidator/tree/master/public/test-screenshots/test6.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
