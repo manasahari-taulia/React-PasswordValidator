@@ -2,6 +2,8 @@
 
 yarn add react-scripts
 
+yarn start
+
 Test-screenshots added here: https://github.com/manasahari-taulia/React-PasswordValidator/tree/master/public/test-screenshots
 
 # Features:
