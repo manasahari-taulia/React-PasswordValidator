@@ -14,5 +14,3 @@ least 1 lowercase letter, contain at least 1 number, and does not match the
 user’s email (e.g. the email is bob@gmail.com and the password does not
 contain “bob”)  </li>
 <li> If the validation is correct, add an strikeout styling to the complete validation  </li>
-
-<img align="right" style="margin-left: 15px" width="300" height="243" src="src-misc/honeybadger1.jpg" />
